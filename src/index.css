@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f2f4f7cc;
+  --color-ink: #f2f4f7cc;
+  --color-blueprint-slate: #56606E;
+  --color-line: #C9D2DB;
+  --color-amber: #D89B34;
+  --color-amber-deep: #8A5A16;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}
