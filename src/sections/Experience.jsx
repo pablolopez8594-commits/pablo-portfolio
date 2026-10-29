@@ -45,7 +45,7 @@ function Experience() {
                   <img
                     src={job.image}
                     alt={`${job.organization} image`}
-                    className="h-12 w-auto object-contain"
+                    className="flex flex-col lg:flex-row h-12 w-auto object-contain"
                   />
                 )}
 

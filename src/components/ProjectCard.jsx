@@ -25,7 +25,7 @@ function ProjectCard({ project }) {
             Project
           </p>
 
-          <h3 className="mb-3 text-8xl font-bold text-paper mb-15">
+          <h3 className="mb-15 break-words text-5xl font-bold text-paper sm:text-6xl lg:text-8xl">
             {project.title}
           </h3>
 

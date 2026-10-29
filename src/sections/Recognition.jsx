@@ -25,7 +25,7 @@ function Recognition() {
           <p className="mb-2 text-xs uppercase tracking-[0.18em] text-blueprint-slate">
             2026 / Skills Ontario
           </p>
-<div className=" flex items-center justify-between gap-4">
+<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
   <h3 className="text-5xl font-bold text-amber-deep!">
     Bronze Medal     🥉
   </h3>
