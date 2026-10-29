@@ -7,7 +7,7 @@ const skills = [
   },
   {
     category: 'Tools',
-    items: [techLogosTools[0], techLogosTools[1],techLogosTools[2],techLogosTools[3],techLogosTools[4],techLogosTools[5],techLogosTools[6]],
+    items: [techLogosTools[0], techLogosTools[1],techLogosTools[2],techLogosTools[3],techLogosTools[5],techLogosTools[6]],
   },
 ]
 
