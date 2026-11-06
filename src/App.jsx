@@ -17,10 +17,11 @@ function App() {
 
 
         <About />
+                      <Recognition />
               <Skills />
               <Projects/>
               <Experience />
-              <Recognition />
+
               <Contact />
               <Footer/>
       </main>
