@@ -9,7 +9,7 @@ function Skills() {
       <div className="mx-auto max-w-4xl px-6 py-20">
 
         <p className="mb-2 text-xs uppercase tracking-[0.2em] text-amber">
-          02 / Technical Stack
+          03 / Technical Stack
         </p>
 
         <h2 className="mb-8 text-3xl font-bold text-ink">

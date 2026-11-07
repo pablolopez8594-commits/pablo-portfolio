@@ -18,7 +18,7 @@ function Projects() {
       <div className="mx-auto max-w-4xl px-6 pt-20">
 
         <p className="mb-2 text-xs uppercase tracking-[0.2em] text-amber">
-          03 / Selected Work
+          04 / Selected Work
         </p>
 
         <h2 className="mb-8 text-3xl font-bold text-ink">
